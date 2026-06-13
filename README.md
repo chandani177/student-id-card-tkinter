@@ -56,7 +56,7 @@ python IDcard.py
 
 📷 Screenshot
 
-Add a screenshot of your project here after uploading it to GitHub.
+
 
 ---
 
