@@ -56,7 +56,6 @@ python IDcard.py
 
 📷 Screenshot
 
-photo1.png
 
 ---
 
