@@ -58,13 +58,13 @@ python IDcard.py
 ### Main Window
 ![screenshot 3](screenshot3.png)
 ### User Input Form
-(screenshot4.png)
+![screenshot 4](screenshot4.png)
 ### ID card Generation
-(screenshot5.png)
+![screenshot 5](screenshot5.png)
 ### Displaying the details after clicked on submit button
-(screenshot6.png)
+![screenshot 6](screenshot6.png)
 ### final window
-(screenshot1.png)
+![screenshot 1](screenshot1.png)
 
 ---
 
