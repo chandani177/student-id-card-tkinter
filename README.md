@@ -56,7 +56,7 @@ python IDcard.py
 
 📷 Screenshot
 ### Main Window
-(screenshot3.png)
+![screenshot 3](screenshot3.png)
 ### User Input Form
 (screenshot4.png)
 ### ID card Generation
